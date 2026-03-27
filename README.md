@@ -81,6 +81,7 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 | [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)           |     *      | [Solution](./sql/p0175_combine_two_tables.sql)      |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)               |     *      | [Solution](./sql/p0182_duplicate_emails.sql)        |
 | [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) |     *      | [Solution](./sql/p0196_delete_duplicate_emails.sql) |
+| [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/)           |     *      | [Solution](./sql/p0197_rising_temperature.sql)      |
 | [577. Employee Bonus](https://leetcode.com/problems/combine-two-tables/)               |     *      | [Solution](./sql/p0577_employee_bonus.sql)          |
 
 ## References
